@@ -8,7 +8,7 @@ body{
     min-height: 100px;
     margin-top: 2rem;
     font-size: large;
-    font-family: cursive;
+    font-family:'Courier New', Courier, monospace;
     margin: auto;
     resize: none;
     
@@ -18,7 +18,7 @@ body{
     padding-left: 260px;
 }
 .about{
-    font-family:cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 3vh;
     padding-inline-end: 50px;
     padding-inline-start: 50px;
