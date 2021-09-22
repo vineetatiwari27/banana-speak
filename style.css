@@ -64,7 +64,7 @@ button{
     min-height: 100px;
     margin-top: 2rem;
     font-size: large;
-    font-family: cursive;
+    font-family:'Courier New', Courier, monospace;
     margin: auto;
     resize: none;
     
